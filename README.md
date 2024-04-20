@@ -1,1 +1,1 @@
-cs5008 with Prof. Jeongkyu Lee
+cs5008 with Prof. Lee
